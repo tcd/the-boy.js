@@ -1,6 +1,6 @@
 {
     "name": "the-boy",
-    "version": "0.5.0",
+    "version": "1.0.0",
     "description": "ASCII art of a yeeting frog",
     "main": "index.js",
     "scripts": {
