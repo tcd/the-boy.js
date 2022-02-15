@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm i the-boy.js
+npm install the-boy
 ```
 
 ## Usage
