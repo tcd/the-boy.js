@@ -1,13 +1,25 @@
 {
   "name": "the-boy",
   "version": "0.1.0",
-  "description": "",
+  "description": "ASCII art of a yeeting frog",
   "main": "index.js",
   "scripts": {
     "test": "true"
   },
-  "keywords": [],
+  "keywords": [
+      "ascii",
+      "ASCII",
+      "frog",
+      "yeeted",
+      "deploy the boy"
+  ],
   "files": ["index.js"],
   "author": "Clay Dunston <dunstontc@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tcd/the-boy.js.git",
+    "directory": "packages/babel-core"
+  },
+  "homepage": "https://github.com/tcd/the-boy.js"
 }
