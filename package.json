@@ -1,8 +1,9 @@
 {
   "name": "the-boy",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "ASCII art of a yeeting frog",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "true"
   },
@@ -21,5 +22,6 @@
     "url": "https://github.com/tcd/the-boy.js.git",
     "directory": "packages/babel-core"
   },
-  "homepage": "https://github.com/tcd/the-boy.js"
+  "homepage": "https://github.com/tcd/the-boy.js",
+  "types": "./index.d.ts"
 }
