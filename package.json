@@ -1,0 +1,13 @@
+{
+  "name": "the-boy",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "keywords": [],
+  "files": ["index.js"],
+  "author": "Clay Dunston <dunstontc@gmail.com>",
+  "license": "MIT"
+}
