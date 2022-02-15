@@ -1,6 +1,6 @@
 {
     "name": "the-boy",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "description": "ASCII art of a yeeting frog",
     "main": "index.js",
     "scripts": {
@@ -15,7 +15,7 @@
     ],
     "files": [
         "index.js",
-        "./index.d.ts"
+        "index.d.ts"
     ],
     "author": "Clay Dunston <dunstontc@gmail.com>",
     "license": "MIT",
