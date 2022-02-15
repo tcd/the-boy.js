@@ -1,12 +1,9 @@
 # The Boy
 
-<div class="center">
-  <img src="https://raw.githubusercontent.com/tcd/the-boy.js/master/the-boy.jpg" alt="the-boy" title="the-boy">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tcd/the-boy.js/master/assets/the-boy-small.jpg" alt="the-boy" title="the-boy">
 </div>
 
-<style>
-  .center {
-    text-align: center;
-    width: 200px;
-  }
-</style>
+## License
+
+Licensed under the [MIT](https://github.com/tcd/the-boy.js/blob/master/LICENSE.md) license.
